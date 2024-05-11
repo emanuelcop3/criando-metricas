@@ -1,0 +1,16 @@
+C:\Users\Inteli\Documents\GitHub\criando-metricas\bin\Debug\net8.0\criando-metricas.exe
+C:\Users\Inteli\Documents\GitHub\criando-metricas\bin\Debug\net8.0\criando-metricas.deps.json
+C:\Users\Inteli\Documents\GitHub\criando-metricas\bin\Debug\net8.0\criando-metricas.runtimeconfig.json
+C:\Users\Inteli\Documents\GitHub\criando-metricas\bin\Debug\net8.0\criando-metricas.dll
+C:\Users\Inteli\Documents\GitHub\criando-metricas\bin\Debug\net8.0\criando-metricas.pdb
+C:\Users\Inteli\Documents\GitHub\criando-metricas\obj\Debug\net8.0\criando-metricas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inteli\Documents\GitHub\criando-metricas\obj\Debug\net8.0\criando-metricas.AssemblyInfoInputs.cache
+C:\Users\Inteli\Documents\GitHub\criando-metricas\obj\Debug\net8.0\criando-metricas.AssemblyInfo.cs
+C:\Users\Inteli\Documents\GitHub\criando-metricas\obj\Debug\net8.0\criando-metricas.csproj.CoreCompileInputs.cache
+C:\Users\Inteli\Documents\GitHub\criando-metricas\obj\Debug\net8.0\criando-metricas.sourcelink.json
+C:\Users\Inteli\Documents\GitHub\criando-metricas\obj\Debug\net8.0\criando-metricas.dll
+C:\Users\Inteli\Documents\GitHub\criando-metricas\obj\Debug\net8.0\refint\criando-metricas.dll
+C:\Users\Inteli\Documents\GitHub\criando-metricas\obj\Debug\net8.0\criando-metricas.pdb
+C:\Users\Inteli\Documents\GitHub\criando-metricas\obj\Debug\net8.0\criando-metricas.genruntimeconfig.cache
+C:\Users\Inteli\Documents\GitHub\criando-metricas\obj\Debug\net8.0\ref\criando-metricas.dll
+C:\Users\Inteli\Documents\GitHub\criando-metricas\obj\Debug\net8.0\criando-metricas.csproj.AssemblyReference.cache

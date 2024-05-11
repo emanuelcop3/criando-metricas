@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rwv/U8qZJrPS8VyzHIVrTXgurwSNsjvvpD8kqawYQorzuCRdz8qKxYbyMDuDvdBrpReFAj3DDBmE6OfaParc5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Inteli\\Documents\\GitHub\\criando-metricas\\criando-metricas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Inteli\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\Inteli\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Inteli\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.1\\system.diagnostics.diagnosticsource.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
