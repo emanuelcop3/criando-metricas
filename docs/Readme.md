@@ -44,10 +44,4 @@ Aqui está alguns exemplos   de como executar o projeto com prints:
 <img src="../assets/image.png">
 <img src="../assets/Udate.png">
 
-## Contribuição
-
-Sinta-se à vontade para contribuir com melhorias, correções de bugs ou novos recursos. Basta abrir uma issue ou enviar um pull request!
-
-
-
-Essa documentação fornece uma visão geral e clara do projeto e detalha como executá-lo. 
+## Essa documentação fornece uma visão geral e clara do projeto e detalha como executá-lo. 
